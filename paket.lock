@@ -1,0 +1,5 @@
+RESTRICTION: == net461
+NUGET
+  remote: https://www.nuget.org/api/v2
+    FSharp.Core (4.3.4)
+    FsXaml.Wpf (3.1.6)
